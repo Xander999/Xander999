@@ -1,7 +1,5 @@
 ### Bonour, Its Suraj Saha here 👋
 
-<!--
-**Xander999/Xander999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: My first neural network developed solely using classes and objects in Java without using any predefined-packages
--->
+
