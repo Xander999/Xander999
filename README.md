@@ -1,4 +1,4 @@
-### Bonour, Its Suraj Saha here 👋
+### Bonjour, Its Suraj Saha here 👋
 
 
 Here are some ideas to get you started:
